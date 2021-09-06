@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">NoteHomeLessons</string>
+    <string name="name">Имя Заметки</string>
+    <string name="descriptionNote">Описание заметки</string>
+    <string name="dateCreate">Дата создания заметки</string>
+    <string name="note_information">Имя заметки:                            дата создания</string>
+    <string name="note_information1">Имя заметки 1:                         дата создания</string>
+    <string name="note_information2">Имя заметки 2:                         дата создания</string>
 </resources>
