@@ -1,7 +1,8 @@
-package com.example.notehomelessons;
+package com.example.notehomelessons.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import com.example.notehomelessons.R;
 
 public class MainActivity extends AppCompatActivity {
 
